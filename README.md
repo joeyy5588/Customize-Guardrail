@@ -95,6 +95,7 @@ Please use the data generation script `generate_training_data_reflection.py` to 
 
 
 ## Citation
+If you find our work helpful, please consider citing:
 ```
 @article{yang2025customize,
   title={Customize Multi-modal RAI Guardrails with Precedent-based predictions},
